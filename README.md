@@ -25,6 +25,9 @@ Created calculated columns and measures in Power BI.
 And then I've Created few filters and key performance indicators.
 Finally created dashboard using appropriate visualization.
 Dashboard :
+<img width="894" height="512" alt="318693483-a40f88f4-7f32-4a43-9802-baac99651288 (1)" src="https://github.com/user-attachments/assets/88652cbf-8717-4bf1-91f9-3038ffab14a1" />
+<img width="891" height="499" alt="308869855-7a8b8b9b-10f9-4ca1-9620-f6423dd1e174" src="https://github.com/user-attachments/assets/d2dc58d6-54d3-41d2-b0ad-92e51da79c0c" />
+<img width="896" height="498" alt="308869781-393c5fc5-c773-4461-a99e-dad5e70c50ea" src="https://github.com/user-attachments/assets/2791b351-f522-41d7-b4d5-b073f8f12f08" />
 ![hospit](https://github.com/user-attachments/assets/88c669ab-b5d9-407e-95e2-b0b2daf83b84)
 Insights :
 From the visualization i.e., Trends by Key Metrics we can see that Mumbai city is generating highest Revenue and the Delhi city generating lowest Revenue,So now we take actions accordingly.
