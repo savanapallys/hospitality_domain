@@ -56,12 +56,12 @@ And proper usage of color palettes for creating dashboards.
 For a hospitality Power BI project, you can use dashboard names like "Hotel Performance Dashboard," "Hospitality Key Metrics," or "Revenue & Occupancy Analyzer," as these clearly indicate the project's domain and the insights it provides, focusing on metrics such as RevPAR, ADR, occupancy, and revenue. 
 
 General Performance:
-Hotel Performance Dashboard 
-Hospitality Dashboard 
-Hospitality Key Performance Indicators (KPI) Dashboard 
+Hotel Performance Dashboard, 
+Hospitality Dashboard, 
+Hospitality Key Performance Indicators (KPI) Dashboard, 
 Revenue Focused:
-Hospitality Revenue Dashboard 
-Hotel Revenue & Occupancy Analyzer 
+Hospitality Revenue Dashboard, 
+Hotel Revenue & Occupancy Analyzer, 
 Operational Focus:
-Hotel Operations & Occupancy Insights 
-Room Utilization Performance Dashboard 
+Hotel Operations & Occupancy Insights, 
+Room Utilization Performance Dashboard, 
